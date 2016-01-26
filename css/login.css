@@ -1,0 +1,52 @@
+﻿html {
+	width:100%;
+	height:100%;
+	margin:0;
+}
+body {
+	width:100%;
+	height:100%;
+	margin:0px;
+	text-align:center;
+	background-color:#8ca;
+}
+body * {
+	font-family:TW-Sung;
+	font-size:16px;
+}
+form {
+}
+#login_form {
+	padding:40px 40px;
+	background-color:#f78;
+	display:inline-block;
+	vertical-align:20px;
+}
+input {
+}
+#user_name,#user_password {
+	font-size:24px;
+}
+#login_submit {
+	width:90px;
+	height:90px;
+	font-size:36px;
+	padding:0px;
+}
+span {
+}
+#login_span {
+	font-size:24px;
+	color:#137;
+	margin:0px;
+}
+#login_title {
+	font-size:40px;
+	font-weight:bold;
+	color:#137;
+}
+#login_info {
+	color:#712;
+	font-size:20px;
+	font-weight:bold;
+}

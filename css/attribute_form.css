@@ -1,0 +1,129 @@
+div {
+}
+#attribute_main {
+	white-space:nowrap;
+}
+#basic_infor {
+	position:relative;
+	margin:auto 30px;
+	padding:40px;
+	display:inline-block;
+	vertical-align:top;
+	text-align:left;
+	background-color:#eac;
+}
+#extend_infor {
+	position:relative;
+	margin:auto 30px auto 0px;
+	padding:40px;
+	text-align:left;
+	display:none;
+	vertical-align:top;
+	background-color:#eac;
+}
+#person_history_div {
+	width:650px;
+	height:140px;
+	margin:auto 35px;
+	border:1px solid brown;
+	overflow:auto;
+	background-color:#123;
+	color:#eac;
+}
+span {
+}
+#attribute_title {
+	font-size:30px;
+	background-color:#fa8;
+}
+#person_volunteer_advise,
+#person_name,
+#person_dharma,
+#person_healthy,
+#person_marriage,
+#person_emergency_person,
+#person_emergency_relationship
+{
+	width:80px;
+}
+#person_room,
+#person_group {
+	width:60px;
+}
+#person_volunteer_reason,
+#person_emergency_contact,
+#person_job,
+#person_QQ,
+#person_phone,
+#person_birth,
+#person_prearrive_date,
+#person_arrive_date,
+#person_preleave_date {
+	width:140px;
+}
+#person_employer,
+#person_email
+{
+	width:240px;
+}
+#person_identity,
+#person_identity_address,
+#person_current_address {
+	width:350px;
+}
+#person_prearrive_span,
+#person_prearrive_date,
+#person_prearrive_time,
+#person_prearrive_arrow,
+#person_prearrive_confirm {
+	display:none;
+}
+form {
+}
+#attribute_main {
+	text-align:center;
+	margin:auto;
+	/*width:700px;
+	width:1900px;*/
+	display:inline-block;
+	border:1px solid #324;
+}
+textarea {
+}
+#person_remarks {
+	margin-left:40px;
+	width:480px;
+	height:40px;
+	min-width:480px;
+	min-height:40px;
+	max-width:480px;
+	max-height:100px;
+}
+#person_work_experience,
+#person_specialty_features {
+	vertical-align:super;
+	width:240px; min-width:240px; max-width:240px;
+	height:40px; min-height:40px; max-height:100px;
+}
+input {
+}
+#person_submit,#person_cancel,#leave_button {
+	margin-left:40px;
+}
+#switch_person_arrive_button {
+	margin-left:35px;
+	padding:0px 6px;
+}
+#person_delete {
+	margin-left:120px;
+}
+select {
+}
+#person_house,#person_type {
+	width:100px;
+}
+tr {
+}
+.history_tr *{
+	border-top:1px solid #fef;
+}

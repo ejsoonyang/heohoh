@@ -1,0 +1,36 @@
+div {
+}
+.pic_color_button_outer {
+	position:relative;
+	display:inline-block;
+}
+.pic_color_outer {
+	position:absolute;
+	background-color:#dcb;
+	display:none;
+	z-index:7;
+}
+.pic_color {
+	/*width:450px;
+	height:200px;*/
+	margin:0px;
+	padding:20px;
+	/*float:right;*/
+	text-align:center;
+}
+.pic_color_R,.pic_color_G,.pic_color_B {
+	width:407px;
+	margin:0px auto;
+}
+.pic_color_R_col,.pic_color_G_col,.pic_color_B_col,.pic_color_R_col_selected,.pic_color_G_col_selected,.pic_color_B_col_selected {
+	width:25px;
+	height:45px;
+	margin:5px 1px;
+	cursor:cell;
+	float:left;
+}
+.pic_color_R_col_selected,.pic_color_G_col_selected,.pic_color_B_col_selected {
+	width:19px;
+	height:39px;
+	border:3px solid #FFF;
+}

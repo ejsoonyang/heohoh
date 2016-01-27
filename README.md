@@ -2,8 +2,8 @@
 =========
 本網頁程式以「保留作者名字|非商業使用|請勿更改」的方式進行分享，作者名字爲「尹卂|Ejsoon Y」。
 
-任何問題請發送郵件至
-ejsoon@outlook.com(國際)
+任何問題請發送郵件至：<br>
+ejsoon@outlook.com(國際)<br>
 ejsoon@126.com(中國大陸)
 
 使用說明
@@ -13,10 +13,10 @@ ejsoon@126.com(中國大陸)
 安裝步驟
 ---
 一，更改以下文檔<br>
-connect_db.php<br>
-login.php<br>
-php_create/person_history.php<br>
-php_create/person_history.php<br>
+ connect_db.php<br>
+ login.php<br>
+ php_create/person_history.php<br>
+ php_create/person_history.php<br>
 中的服務器位址，用戶名，密碼，數據庫名。
 
 二，上傳文檔，並更改所有文檔的權限爲755。
@@ -27,10 +27,10 @@ php_create/person_history.php<br>
 
 五，進入首頁，使用在步驟二中獲取的用戶名和密碼登入。
 
-六，登入成功後，請刪除php_create/資料夾，更改用戶密碼。
+六，登入成功後，請刪除php_create/資料夾，並更改用戶密碼。
 
 注意事項
 ---
-* 如果創建數據庫不成功，請檢查權限和服務器位址，用戶名，密碼，數據庫名是否填寫正確。
+* 如果創建數據庫不成功，請檢查服務器位址，用戶名，密碼，數據庫名是否填寫正確，並確認權限已作更改。
 
 * 一些服務端文檔管理有在綫解壓的功能，可在步驟二上傳之前壓縮，上傳之後再解壓。

@@ -8,7 +8,7 @@ ejsoon@126.com(中國大陸)
 
 使用說明
 ---
-見help.pdf
+見[help.pdf](https://github.com/ejsoonyang/heohoh/raw/master/help.pdf)
 
 安裝步驟
 ---

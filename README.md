@@ -12,11 +12,11 @@ ejsoon@126.com(中國大陸)
 
 安裝步驟
 ---
-一，更改以下文檔
-connect_db.php
-login.php
-php_create/person_history.php
-php_create/person_history.php
+一，更改以下文檔<br>
+connect_db.php<br>
+login.php<br>
+php_create/person_history.php<br>
+php_create/person_history.php<br>
 中的服務器位址，用戶名，密碼，數據庫名。
 
 二，上傳文檔，並更改所有文檔的權限爲755。
@@ -32,4 +32,5 @@ php_create/person_history.php
 注意事項
 ---
 * 如果創建數據庫不成功，請檢查權限和服務器位址，用戶名，密碼，數據庫名是否填寫正確。
+
 * 一些服務端文檔管理有在綫解壓的功能，可在步驟二上傳之前壓縮，上傳之後再解壓。

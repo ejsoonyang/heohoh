@@ -8,7 +8,9 @@ ejsoon@126.com(中國大陸)
 
 使用說明
 ---
-見[help.pdf](https://github.com/ejsoonyang/heohoh/raw/master/help.pdf)
+* 見[help.pdf](https://github.com/ejsoonyang/heohoh/raw/master/help.pdf)
+
+* [演示位址](http://ejsoon.jlljxcx.com/wuhehe)
 
 安裝步驟
 ---
@@ -21,13 +23,13 @@ ejsoon@126.com(中國大陸)
 
 二，上傳文檔，並更改所有文檔的權限爲755。
 
-三，在網頁位址欄中輸入php_create/person_main.php，建立主數據庫。成功後請記住顯示的預設的用戶名和密碼。
+三，在網頁位址欄中輸入http://(..your_site..)/php_create/person_main.php，建立主數據庫。成功後請記住顯示的預設的用戶名和密碼。
 
-四，在網頁位址欄中輸入php_create/person_history.php，建立歷史數據庫。
+四，在網頁位址欄中輸入http://(..your_site..)/php_create/person_history.php，建立歷史數據庫。
 
 五，進入首頁，使用在步驟二中獲取的用戶名和密碼登入。
 
-六，登入成功後，請刪除php_create/資料夾，並更改用戶密碼。
+六，登入成功後，請刪除http://(..your_site..)/php_create/資料夾，並更改用戶密碼。
 
 注意事項
 ---
